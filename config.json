@@ -1,0 +1,9 @@
+{
+	"ip":"KADDUSMPOP_JAVA2PE.aternos.me",
+	"port": 61952,
+	"name": "NALLAOP",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register I am bot by FTGAMER",
+	"login-cmd":"/login I am bot by FTGAMER"
+}
